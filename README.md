@@ -56,6 +56,6 @@ Note ->  Make sure that you create a folder named "plates" in the main folder. T
 Thats it, Happy coding!
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/y-naga-vamsi)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-naga-vamsi)
 
 
