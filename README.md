@@ -54,8 +54,17 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 Note ->  Make sure that you create a folder named "plates" in the main folder. That ensures to save the captured plates as img and excel format.
 
 Thats it, Happy coding!
+
+## 🔗 Images
+
+![Image1](Images/0.jpg)
+![Image2](Images/1.jpg)
+![Image3](Images/2.jpg)
+![Image4](Images/3.jpg)
+
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-naga-vamsi)
 
-![Image1](Images/0.jpg)
+
